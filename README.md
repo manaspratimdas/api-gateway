@@ -1,5 +1,5 @@
 # api-gateway
-The is the api-gateway 
+Implemented using Spring Cloud Gateway, it acts as a single entry point for clients, routing requests to appropriate microservices and aggregating the responses. This reduces the number of round trips between the client and application.
 
 
 **Prompt to create api-gateway**
